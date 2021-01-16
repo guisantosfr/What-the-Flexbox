@@ -6,4 +6,5 @@ This repo shows the exercises for the ["What The Flexbox?!"](http://flexbox.io) 
 
 ## Exercises
 
-1. **Pure Flexbox navigation code along** - Navigation bar
+1. **Pure Flexbox navigation code along** - Using `flex`, `flex-wrap` and `flex-basis` to make a responsive navbar.
+2. **Mobile content reordering with Flexbox** - Using the `order` property to reorder flex items in mobile layout.
