@@ -2,7 +2,6 @@ node_modules/
 .DS_Store
 *.zip
 
-pricing-grid/
 equal-height-elements/
 flexbox-form/
 flexbox-app-layout/
