@@ -2,6 +2,5 @@ node_modules/
 .DS_Store
 *.zip
 
-equal-height-elements/
 flexbox-form/
 flexbox-app-layout/
